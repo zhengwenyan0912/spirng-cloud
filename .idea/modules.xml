@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/eureka-ribbon-client/eureka-ribbon-client.iml" filepath="$PROJECT_DIR$/eureka-ribbon-client/eureka-ribbon-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-client/eurekaclient.iml" filepath="$PROJECT_DIR$/eureka-client/eurekaclient.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-server/eurekaserver.iml" filepath="$PROJECT_DIR$/eureka-server/eurekaserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/spirng-cloud.iml" filepath="$PROJECT_DIR$/spirng-cloud.iml" />
